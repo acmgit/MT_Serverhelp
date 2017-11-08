@@ -1,0 +1,72 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+name = clyde
+position = (686.91,445,-1329.45)
+version = 1
+hp = 18
+pitch = -9
+yaw = 60.19
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_steel
+Item default:axe_steel
+Item default:shovel_steel
+Item default:torch 99
+Item default:cobble 99
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,72 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+name = test3
+position = (690,105,210)
+version = 1
+hp = 20
+pitch = -9.19
+yaw = 95.01
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_steel
+Item default:axe_steel
+Item default:shovel_steel
+Item default:torch 99
+Item default:cobble 99
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
