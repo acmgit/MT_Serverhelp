@@ -3,7 +3,7 @@
 This scripts runs on the console and helps Serverowner for Minetest.
 
 ## list_player.sh <File>
-list_player.sh auth.txt lists all Playernames in this File.
+Lists all Playernames in <File>.
 
 ## list_priv.sh <priv> <File>
 Lists all the player, who has the given Privileg.
